@@ -115,7 +115,7 @@ This project is open source. Feel free to use, modify, and distribute.
 
 ## 🤝 Contributing
 
-Contributions welcome! This project maintains the philosophy of simplicity - keep everything in the single raytracer.cpp file when possible.
+Contributions welcome! This project maintains the philosophy of simplicity - keep everything in the single rayengine.cpp file when possible.
 
 ## 📧 Contact
 
@@ -126,3 +126,4 @@ GitHub: [@LumGenLab](https://github.com/LumGenLab)
 **Built with ❤️ for the ray tracing community**
 
 *"Simple yet powerful. Proving that great rendering doesn't need complexity"*
+
