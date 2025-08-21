@@ -2,6 +2,14 @@
 
 A high-performance, physically-based ray tracer built from scratch in pure C++17. Features path tracing, advanced materials, and Windows display output. The rendering isn't real-time to save memory. When you compile the code and execute it, it will be seen that nothing happened but waiting some time around 40s (40s on our AMD Phenom™ 8750B Triple-Core Processor but on any modern hardware, expect several seconds not 40 or 50), the output will be shown in default Windows window. This is the first version of Ray Engine. Everything was done on the same PC.
 
+## Rendered Examples
+
+Here are some images rendered with Ray-Engine:
+
+![Sample Render 1](examples/rendered_image_1.jpg)
+![Sample Render 2](examples/rendered_image_2.jpg)
+
+
 ## 🚀 Features
 
 - **Pure C++17** - No external dependencies, only standard libraries
@@ -126,4 +134,5 @@ GitHub: [@LumGenLab](https://github.com/LumGenLab)
 **Built with ❤️ for the ray tracing community**
 
 *"Simple yet powerful. Proving that great rendering doesn't need complexity"*
+
 
