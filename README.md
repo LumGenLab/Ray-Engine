@@ -96,7 +96,7 @@ Modify the `create_test_scene()` function to create custom scenes.
 
 ## 📊 Benchmarks vs Other Renderers
 
-Ray Engine is designed to compete with:
+Ray Engine is educational but can outperform other rendering softwares in raw speed and quality on such old hardware. These softwares like given below are powerful but have cost also:
 - **Blender Cycles** - CPU path tracing
 - **Blender Eevee** - Real-time rendering  
 - **Unreal Engine Lumen** - Dynamic global illumination
@@ -134,5 +134,6 @@ GitHub: [@LumGenLab](https://github.com/LumGenLab)
 **Built with ❤️ for the ray tracing community**
 
 *"Simple yet powerful. Proving that great rendering doesn't need complexity"*
+
 
 
