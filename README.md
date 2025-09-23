@@ -123,17 +123,23 @@ This project is open source. Feel free to use, modify, and distribute.
 
 ## 🤝 Contributing
 
-Contributions welcome! This project maintains the philosophy of simplicity - keep everything in the single rayengine.cpp file when possible.
+Contributions welcome! This project maintains the philosophy of simplicity - keep everything in the single rayengine.cpp file when possible. If you can do coding from-scratch using standard libraries only then contributions are totally welcome or if you can't then don't worry because we will handle it by ourselves.
 
 ## 📧 Contact
 
-GitHub: [@LumGenLab](https://github.com/LumGenLab)
+Feel free to reach out through any of the following channels:
+
+Email: [LumGenLab](chemistryabd123@gmail.com)
+
+DEV Community: [DEV Profile](dev.to/lumgenlab)
+
 
 ---
 
 **Built with ❤️ for the ray tracing community**
 
 *"Simple yet powerful. Proving that great rendering doesn't need complexity"*
+
 
 
 
